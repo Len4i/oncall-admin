@@ -34,6 +34,6 @@ setuptools.setup(
         'SQLAlchemy==1.0.11',
         'phonenumbers==7.4.1',
         'ujson==1.35',
-        'python-ldap==2.4.9'
+        'python-ldap'
     ],
 )

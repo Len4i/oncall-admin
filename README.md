@@ -30,3 +30,15 @@ First edit your mysql settings in `configs/config.dev.yaml`.
     make
 
 Then visit http://localhost:16652 in your web browser to view/edit/create/delete oncall user accounts.
+
+
+
+
+
+
+
+
+
+### Build container
+
+docker build ./ -t oncall-admin  
